@@ -1,0 +1,15 @@
+https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/
+
+https://p-srinikorn.medium.com/review-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-api-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-fastapi-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87-%E0%B8%9F%E0%B8%B4%E0%B9%89%E0%B8%A7-%E0%B9%86-148b10416a70
+
+https://github.com/bozzlab/fastapi-cicd
+
+
+https://nattawatx86.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-oauth-2-0-%E0%B8%81%E0%B8%B1%E0%B8%9A-auth0-%E0%B8%81%E0%B8%B1%E0%B8%99-part-1-832292d86078
+
+
+https://www.jittagornp.me/blog/how-to-design-authentication-system/
+
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Docker-Nginx-reverse-proxy-setup-example
+
+https://docker-curriculum.com
