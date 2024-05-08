@@ -16,3 +16,7 @@ docker run -it busybox sh
 docker rm dec73ff16e2c
 
 docker rm $(docker ps -a -q -f status=exited)
+
+docker image tag alpine alpine:abc
+
+docker image tag alpine:abc sarawoot
