@@ -20,3 +20,7 @@ docker rm $(docker ps -a -q -f status=exited)
 docker image tag alpine alpine:abc
 
 docker image tag alpine:abc sarawoot
+
+docker image rm alpine:abc
+
+docker container stop admiring_franklin
