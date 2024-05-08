@@ -24,3 +24,10 @@ docker image tag alpine:abc sarawoot
 docker image rm alpine:abc
 
 docker container stop admiring_franklin
+
+docker build -t fastapi .
+docker run --rm -p '8000:8000' --name api fastapi
+
+docker run --rm -p '80:8000' --name api fastapi
+
+docker run --rm -p '80:8000' --name api dbapi
